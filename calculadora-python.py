@@ -1,5 +1,6 @@
 import math
 
+
 def fatorial(x):
     if x < 0:
         return "Erro: Fatorial de número negativo!"
@@ -31,8 +32,10 @@ def calculadora():
     print("5 - Fatorial")
     print("6 - Exponenciação")
 
+    
     escolha = input("Digite o número da operação (1/2/3/4/5/6): ")
 
+    
     if escolha in ['1', '2', '3', '4', '5', '6']:
         num1 = float(input("Digite o primeiro número: "))
         num2 = float(input("Digite o segundo número: "))
@@ -53,6 +56,7 @@ def calculadora():
             print(f"{num1} ^ {num2} = {exponenciacao(num1, num2)}")
     else:
         print("Operação inválida!")
+
 
 if __name__ == "__main__":
     calculadora()
