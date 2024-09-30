@@ -15,17 +15,14 @@
 
 ### 🏠 [Homepage](https://github.com/HyagoColaresUFRA/TEES-ATV1)
 
-<<<<<<< HEAD
 ## Faça o clone do repositorio
 =======
 ## Install
->>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 
 ```sh
 git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
 ```
 
-<<<<<<< HEAD
 =======
 ## Install
 
@@ -33,7 +30,6 @@ git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
 cd calculadora-python
 ```
 
->>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 ## Execute o script calculadora-python.py
 
 ```sh
@@ -56,12 +52,8 @@ Copyright © 2024 [Hyago Colares](https://github.com/https:\/\/github.com\/Hyago
 This project is [MIT](https://github.com/HyagoColaresUFRA/TEES-ATV1/blob/main/LICENSE) licensed.
 
 ***
-<<<<<<< HEAD
-<<<<<<< HEAD
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 =======
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
->>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 =======
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
->>>>>>> a17a1ac059e599c1a821ba057e57446067775611
