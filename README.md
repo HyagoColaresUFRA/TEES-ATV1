@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> Calculadora simples em Python que permite realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+> Calculadora simples em Python que permite realizar as cinco operações matemáticas básicas: adição, subtração, multiplicação, divisão e fatorial.
 
 ### 🏠 [Homepage](https://github.com/HyagoColaresUFRA/TEES-ATV1)
 
