@@ -16,14 +16,13 @@
 ### 🏠 [Homepage](https://github.com/HyagoColaresUFRA/TEES-ATV1)
 
 ## Faça o clone do repositorio
-=======
+
 ## Install
 
 ```sh
 git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
 ```
 
-=======
 ## Install
 
 ```sh
