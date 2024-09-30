@@ -17,16 +17,8 @@
 
 ## Faça o clone do repositorio
 
-## Install
-
 ```sh
 git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
-```
-
-## Install
-
-```sh
-cd calculadora-python
 ```
 
 ## Execute o script calculadora-python.py
