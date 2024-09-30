@@ -33,10 +33,6 @@ python calculadora-python.py
 
 * Github: [@https:\/\/github.com\/HyagoColaresUFRA](https://github.com/https:\/\/github.com\/HyagoColaresUFRA)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## 📝 License
 
 Copyright © 2024 [Hyago Colares](https://github.com/https:\/\/github.com\/HyagoColaresUFRA).<br />
