@@ -1,5 +1,6 @@
 import math
 
+
 def fatorial(x):
     if x < 0:
         return "Erro: Fatorial de número negativo!"
@@ -19,6 +20,7 @@ def divisao(x, y):
         return "Erro: Divisão por zero!"
     return x / y
 
+
 def calculadora():
     print("Selecione a operação:")
     print("1 - Soma")
@@ -27,8 +29,10 @@ def calculadora():
     print("4 - Divisão")
     print("5 - Fatorial")
 
+    
     escolha = input("Digite o número da operação (1/2/3/4/5): ")
 
+    
     if escolha in ['1', '2', '3', '4', '5']:
         num1 = float(input("Digite o primeiro número: "))
         
@@ -46,6 +50,7 @@ def calculadora():
                 print(f"{num1} / {num2} = {divisao(num1, num2)}")
     else:
         print("Operação inválida!")
+
 
 if __name__ == "__main__":
     calculadora()
