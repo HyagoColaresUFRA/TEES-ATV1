@@ -52,8 +52,5 @@ Copyright © 2024 [Hyago Colares](https://github.com/https:\/\/github.com\/Hyago
 This project is [MIT](https://github.com/HyagoColaresUFRA/TEES-ATV1/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-=======
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 =======
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
