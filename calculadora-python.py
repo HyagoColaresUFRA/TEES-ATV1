@@ -25,14 +25,14 @@ def calculadora():
     print("2 - Subtração")
     print("3 - Multiplicação")
     print("4 - Divisão")
-    print("5 - Fatorial")  # Adicionando a opção de fatorial
+    print("5 - Fatorial")
 
     escolha = input("Digite o número da operação (1/2/3/4/5): ")
 
     if escolha in ['1', '2', '3', '4', '5']:
         num1 = float(input("Digite o primeiro número: "))
         
-        if escolha == '5':  # Se a escolha for fatorial, não precisamos de num2
+        if escolha == '5':
             print(f"{num1}! = {fatorial(num1)}")
         else:
             num2 = float(input("Digite o segundo número: "))
