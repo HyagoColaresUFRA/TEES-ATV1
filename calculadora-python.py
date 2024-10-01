@@ -1,5 +1,8 @@
 import math
 
+def mediaAritmetica(x, y):
+    return (x + y) / 2
+
 def fatorial(x):
     if x < 0:
         return "Erro: Fatorial de número negativo!"
@@ -30,6 +33,7 @@ def calculadora():
     print("4 - Divisão")
     print("5 - Fatorial")
     print("6 - Exponenciação")
+    print("7 - Média aritmética")
 
     escolha = input("Digite o número da operação (1/2/3/4/5/6): ")
 
@@ -51,6 +55,8 @@ def calculadora():
             print(f"{num1} / {num2} = {divisao(num1, num2)}")
         elif escolha == '6':
             print(f"{num1} ^ {num2} = {exponenciacao(num1, num2)}")
+        elif escolha == '7':
+            print(f"({num1} + {num2}) = {mediaAritmetica(num1, num2)}")
     else:
         print("Operação inválida!")
 
