@@ -59,6 +59,6 @@ def calculadora():
             print(f"({num1} + {num2}) = {mediaAritmetica(num1, num2)}")
     else:
         print("Operação inválida!")
-
+#mainxx
 if __name__ == "__main__":
     calculadora()
